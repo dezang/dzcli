@@ -1,0 +1,22 @@
+{
+  "name": "dzcli",
+  "version": "0.0.1",
+  "description": "dezang's command line tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezang/dzcli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Dezang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dezang/dzcli/issues"
+  },
+  "homepage": "https://github.com/dezang/dzcli#readme"
+}
